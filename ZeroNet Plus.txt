@@ -1,0 +1,35 @@
+CDN
+https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
+
+Material UI
+Addresscoin
+
+Need to set GPG key
+https://developers.yubico.com/PGP/Git_signing.html
+GPG Can sign/verify messages
+
+https://mikegerwitz.com/papers/git-horror-story
+Blockchain with GIT
+"The blockchain of site is out of limit. Increase it by clicking here"
+
+7z files and encrypting
+
+File chunking
+https://www.npmjs.com/package/chunking-streams
+
+File torrenting
+I2
+
+Emercoin, .eth
+ETH/MetaMask
+
+D and IP
+Mesh Networks
+
+Stand and Bundle versions.
+
+Stand:
+Installs CDN
+Replaces Hello page
+Installs Addresscoin
+Installs plugin ZeroNet Plus (block, addresscoin, GPG, git, 7z, chunk, torrent, d/IP, EMER/.ETH, ETH/MetaMask, I2, Mesh Networks)
