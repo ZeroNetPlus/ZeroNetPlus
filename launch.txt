@@ -1,0 +1,10 @@
+ZeroNet+ 1.0.0.0 has been launched!
+
+ZeroNet Plus is a app to give more features to ZeroNet. It now is in an early stage of development.
+
+Features:
+
+* Splashscreen
+* Start screen for first installation, asking for choose where ZeroNet is installed, then link the folder in the app
+* Home screen, showing ZeroNet+ version, and a terminal with available commands: -help, -settings, -change (to change the location of installed ZeroNet), -clear, -version, -reload
+* Settings screen, where can change the location of installed ZeroNet
