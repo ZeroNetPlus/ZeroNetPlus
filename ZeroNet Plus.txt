@@ -1,21 +1,52 @@
+You don't have the /data folder. Start ZeroNet, and this folder will be created.
+Detect if Windows:
+Starting ZeroNet.exe to create this folder...
+/data folder has been successfully created.
+
+Settings:
+autostart ZeroNet with this app
+
+Show ZeroNet's version
+
+Detect when ZeroNet was closed.
+
+Can run/detect ZeroNet on Mac/Linux
+
+Unzip
+
+Install ZeroNet or use the already installed folder.
+
+Look for updates on GH/P2P
+
 CDN
 https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
 
-Material UI
+Communication: Plugin/App
+
+File download
+
+Framework.js+Angular Material
+Desktop notifications
+Zite favicons
+Can use colors on lists
+Images on ZH notifs
+Advanced ntfcs
+
+Plugin manager
+
 Addresscoin
 
-Need to set GPG key
-https://developers.yubico.com/PGP/Git_signing.html
-GPG Can sign/verify messages
+YT download
 
-https://mikegerwitz.com/papers/git-horror-story
-Blockchain with GIT
-"The blockchain of site is out of limit. Increase it by clicking here"
+LiveStream
+
+
+
+
+
+
 
 7z files and encrypting
-
-File chunking
-https://www.npmjs.com/package/chunking-streams
 
 File torrenting
 I2
@@ -32,4 +63,4 @@ Stand:
 Installs CDN
 Replaces Hello page
 Installs Addresscoin
-Installs plugin ZeroNet Plus (block, addresscoin, GPG, git, 7z, chunk, torrent, d/IP, EMER/.ETH, ETH/MetaMask, I2, Mesh Networks)
+Installs plugin ZeroNet Plus (block, addresscoin, GPG, git, 7z, torrent, d/IP, EMER/.ETH, ETH/MetaMask, I2, Mesh Networks)
