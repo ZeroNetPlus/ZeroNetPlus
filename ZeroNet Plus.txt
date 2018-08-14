@@ -1,3 +1,20 @@
+Build instructions
+
+Comments in code
+Log messages in console
+
+New ZeroHello page
+Splashscreen in HTML
+Terminal in HTML
+Settings in HTML
+Terminal: hckr theme
+
+Settings: install built-in zites
+
+Tab menu in settings
+Sys tray icon
+Plugins page
+
 You don't have the /data folder. Start ZeroNet, and this folder will be created.
 Detect if Windows:
 Starting ZeroNet.exe to create this folder...
@@ -8,9 +25,15 @@ autostart ZeroNet with this app
 
 Show ZeroNet's version
 
-Detect when ZeroNet was closed.
-
 Can run/detect ZeroNet on Mac/Linux
+
+
+
+
+
+
+
+Detect when ZeroNet was closed.
 
 Unzip
 
@@ -24,6 +47,8 @@ https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
 Communication: Plugin/App
 
 File download
+http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1515669115_1L4dZcDF2maSKHDy788yhxpYnBWnXadUtS/ZeroNet+uploaded+files+means+duplicity+on+a+HDD
+http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1534189305_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/I+ll+be+blunt+Unfixed+bugs+don+t+look+good+but+I+know+there+are+bigger+issues+at+hand
 
 Framework.js+Angular Material
 Desktop notifications
@@ -35,6 +60,8 @@ Advanced ntfcs
 Plugin manager
 
 Addresscoin
+
+Merged TYPE (like in news feed notification types)
 
 YT download
 
