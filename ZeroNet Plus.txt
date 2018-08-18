@@ -1,20 +1,18 @@
-Build instructions
-
-Comments in code
-Log messages in console
-
-New ZeroHello page
 Splashscreen in HTML
-Terminal in HTML
 Settings in HTML
+New ZeroHello page
+Terminal in HTML
 Terminal: hckr theme
 
 Settings: install built-in zites
 
 Tab menu in settings
 Sys tray icon
+Settings: don't show ZeroNet's tray icon
 Plugins page
+Can install new plugins
 
+https://stackoverflow.com/questions/8683895/how-do-i-determine-the-current-operating-system-with-node-js
 You don't have the /data folder. Start ZeroNet, and this folder will be created.
 Detect if Windows:
 Starting ZeroNet.exe to create this folder...
@@ -36,8 +34,12 @@ Can run/detect ZeroNet on Mac/Linux
 Detect when ZeroNet was closed.
 
 Unzip
+https://www.npmjs.com/package/decompress
 
 Install ZeroNet or use the already installed folder.
+
+Install Geolite DB
+https://github.com/HelloZeroNet/ZeroNet/issues/1492
 
 Look for updates on GH/P2P
 
@@ -45,6 +47,7 @@ CDN
 https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
 
 Communication: Plugin/App
+https://stackoverflow.com/questions/45247118/how-can-i-communicate-between-running-python-code-and-nodejs
 
 File download
 http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1515669115_1L4dZcDF2maSKHDy788yhxpYnBWnXadUtS/ZeroNet+uploaded+files+means+duplicity+on+a+HDD
@@ -64,8 +67,16 @@ Addresscoin
 Merged TYPE (like in news feed notification types)
 
 YT download
+https://www.npmjs.com/package/youtube-dl
+
+zites can upload files to clearnet sites
 
 LiveStream
+https://github.com/conspectio/conspectio
+https://www.google.com.br/search?q=ngrok+site+address+in+a+file&oq=ngrok+site+address+in+a+file&aqs=chrome..69i57j0l5.6926j0j7&sourceid=chrome&ie=UTF-8
+https://github.com/mafintosh/hypervision/issues
+https://github.com/streamroot/bemtv
+https://github.com/fabiohecht/LiveShift
 
 
 
@@ -73,20 +84,38 @@ LiveStream
 
 
 
-7z files and encrypting
+
+
+remove 0 button
+https://github.com/HelloZeroNet/ZeroNet/issues/1024
+
+better notfcs
+https://github.com/HelloZeroNet/ZeroMail/issues/20
+
+protect files with git
+https://github.com/nodegit/nodegit
+
+copyright
+
+Emercoin extensions
+
+helps trackers
+
+blocklists
+
+fulltext search/crawler
+
+publish to DAT network
 
 File torrenting
 I2
 
-Emercoin, .eth
+.eth
 ETH/MetaMask
 
 D and IP
 Mesh Networks
 
-Stand and Bundle versions.
-
-Stand:
 Installs CDN
 Replaces Hello page
 Installs Addresscoin
