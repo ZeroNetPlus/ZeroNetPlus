@@ -1,16 +1,48 @@
 Splashscreen in HTML
-Settings in HTML
-New ZeroHello page
-Terminal in HTML
-Terminal: hckr theme
+Change window title accourding to the page
+Particles animation
+Vibrance transition on logo
+Event sheet for common events in pages
+New design in Start page
+"Choosing folder" placeholder in Start page, when user is using file explorer
+In Settings, tell when user chooses the same ZeroNet folder that is already linked
+In Settings, tell when a ZeroNet folder doesn't have /data folder
+Changed design of "Choose ZeroNet folder" input in Settings
+Added "Choose" button to pick a ZeroNet folder in Settings
+Pages are identified by a number
+Scroll to the bottom of terminal when new messages
+Terminal: hacker theme
+"Choosing folder" placeholder in Home page, when user is using file explorer
+"Choosing folder" placeholder in Settings page, when user is using file explorer
 
+Sys tray icon
+https://stackoverflow.com/questions/37828758/electron-js-how-to-minimize-close-window-to-system-tray-and-restore-window-back
+
+New ZeroHello page
 Settings: install built-in zites
 
-Tab menu in settings
-Sys tray icon
-Settings: don't show ZeroNet's tray icon
-Plugins page
+Plugins manager
 Can install new plugins
+
+Show ZeroNet's version
+
+Terms
+
+
+
+
+
+
+
+Settings in HTML
+Terminal in HTML
+Tab menu in settings
+
+Open zite folder
+Open ZeroNet folder
+Open plugin folder
+
+ZeroNet's font
 
 https://stackoverflow.com/questions/8683895/how-do-i-determine-the-current-operating-system-with-node-js
 You don't have the /data folder. Start ZeroNet, and this folder will be created.
@@ -21,20 +53,21 @@ Starting ZeroNet.exe to create this folder...
 Settings:
 autostart ZeroNet with this app
 
-Show ZeroNet's version
-
 Can run/detect ZeroNet on Mac/Linux
 
-
-
-
-
-
+Settings: don't show ZeroNet's tray icon
 
 Detect when ZeroNet was closed.
 
+https://github.com/HelloZeroNet/ZeroNet-kivy/
+
 Unzip
 https://www.npmjs.com/package/decompress
+
+Backup user
+
+Opt support to HTTP 1.0
+https://github.com/HelloZeroNet/ZeroNet/issues/448
 
 Install ZeroNet or use the already installed folder.
 
@@ -109,6 +142,9 @@ publish to DAT network
 
 File torrenting
 I2
+
+https://github.com/HelloZeroNet/ZeroNet/issues/1483
+https://github.com/HelloZeroNet/ZeroNet/issues/1275
 
 .eth
 ETH/MetaMask
