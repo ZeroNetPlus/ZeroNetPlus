@@ -28,6 +28,8 @@ Show ZeroNet's version
 
 Terms
 
+Show required size
+
 
 
 
@@ -43,6 +45,11 @@ Open ZeroNet folder
 Open plugin folder
 
 ZeroNet's font
+
+Create desktop icon
+taskbar icon
+start menu icon
+autostart with windows
 
 https://stackoverflow.com/questions/8683895/how-do-i-determine-the-current-operating-system-with-node-js
 You don't have the /data folder. Start ZeroNet, and this folder will be created.
@@ -94,6 +101,10 @@ Images on ZH notifs
 Advanced ntfcs
 
 Plugin manager
+
+Image manipulation (like php does)
+
+Git versioning
 
 Addresscoin
 
